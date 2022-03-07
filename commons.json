@@ -60,6 +60,10 @@
         "textCase": "none"
       },
       "type": "typography"
+    },
+    "radius-l": {
+      "value": "16px",
+      "type": "borderRadius"
     }
   },
   "global-aphrodite": {
